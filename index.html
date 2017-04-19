@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Babylon - Basic scene</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="bower_components/components-font-awesome/css/font-awesome.css">
+
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/tether/dist/js/tether.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/handjs/hand.js"></script>
+    <script src="node_modules/babylonjs/babylon.js"></script>
+    <script src="node_modules/babylonjs/Oimo.js"></script>
+
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <div class="nav-left">
+        <a id="muscle">Musculoskeletal</a>
+        <a id="brain">Brain</a>
+    </div>
+    <canvas id="renderCanvas"></canvas>
+    <div id="right-panel">
+        <div class="close-btn">
+            x
+        </div>
+        <div id="title">
+            some title
+        </div>
+        <div id="desc">
+            some desc
+        </div>
+    </div>
+    <div class="container ">
+    <div class="row footer-nav justify-content-md-center">
+        <div id="cut" class="element">
+            <i class="fa fa-scissors" aria-hidden="true"></i>
+        </div>
+        <div id="camera" class="element">
+            <i class="fa fa-video-camera" aria-hidden="true"></i>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
