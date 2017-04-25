@@ -1,0 +1,27 @@
+{
+  "name": "atlas3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babylonjs": "^3.0.0-alpha",
+    "browser-sync": "^2.18.8",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwianek/atlas3D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwianek/atlas3D/issues"
+  },
+  "homepage": "https://github.com/cwianek/atlas3D#readme"
+}
