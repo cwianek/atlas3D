@@ -1,0 +1,396 @@
+	Exporter version: 4.6.1, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\Users\Adas\Desktop\a\
+	Python World class constructor completed
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.023
+		processing begun of Standard material:  defaultMat.004
+			Diffuse texture found "Kd.004"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  523
+		num normals        :  523
+		num uvs            :  1046
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2616
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.022
+		registered as also a user of material:  defaultMat.004
+		num positions      :  722
+		num normals        :  722
+		num uvs            :  1444
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3804
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.021
+		registered as also a user of material:  defaultMat.004
+		num positions      :  965
+		num normals        :  965
+		num uvs            :  1930
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4824
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.020
+		registered as also a user of material:  defaultMat.004
+		num positions      :  911
+		num normals        :  911
+		num uvs            :  1822
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4320
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.019
+		registered as also a user of material:  defaultMat.004
+		num positions      :  965
+		num normals        :  965
+		num uvs            :  1930
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4782
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.018
+		registered as also a user of material:  defaultMat.004
+		num positions      :  914
+		num normals        :  914
+		num uvs            :  1828
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4476
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.017
+		registered as also a user of material:  defaultMat.004
+		num positions      :  905
+		num normals        :  905
+		num uvs            :  1810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4512
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.016
+		registered as also a user of material:  defaultMat.004
+		num positions      :  502
+		num normals        :  502
+		num uvs            :  1004
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2598
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.015
+		registered as also a user of material:  defaultMat.004
+		num positions      :  544
+		num normals        :  544
+		num uvs            :  1088
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2706
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.014
+		registered as also a user of material:  defaultMat.004
+		num positions      :  515
+		num normals        :  515
+		num uvs            :  1030
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2598
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.013
+		registered as also a user of material:  defaultMat.004
+		num positions      :  720
+		num normals        :  720
+		num uvs            :  1440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3786
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.012
+		registered as also a user of material:  defaultMat.004
+		num positions      :  938
+		num normals        :  938
+		num uvs            :  1876
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4788
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.011
+		registered as also a user of material:  defaultMat.004
+		num positions      :  844
+		num normals        :  844
+		num uvs            :  1688
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4218
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.010
+		registered as also a user of material:  defaultMat.004
+		num positions      :  964
+		num normals        :  964
+		num uvs            :  1928
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4782
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.009
+		registered as also a user of material:  defaultMat.004
+		num positions      :  921
+		num normals        :  921
+		num uvs            :  1842
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4476
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.008
+		registered as also a user of material:  defaultMat.004
+		num positions      :  977
+		num normals        :  977
+		num uvs            :  1954
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4530
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.007
+		registered as also a user of material:  defaultMat.004
+		num positions      :  522
+		num normals        :  522
+		num uvs            :  1044
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2580
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.006
+		registered as also a user of material:  defaultMat.004
+		num positions      :  1330
+		num normals        :  1330
+		num uvs            :  2660
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6564
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.005
+		registered as also a user of material:  defaultMat.004
+		num positions      :  1222
+		num normals        :  1222
+		num uvs            :  2444
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6450
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.004
+		registered as also a user of material:  defaultMat.004
+		num positions      :  5110
+		num normals        :  5110
+		num uvs            :  10220
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  28110
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.003
+		registered as also a user of material:  defaultMat.004
+		num positions      :  5061
+		num normals        :  5061
+		num uvs            :  10122
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  28068
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.002
+		registered as also a user of material:  defaultMat.004
+		num positions      :  3573
+		num normals        :  3573
+		num uvs            :  7146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  19026
+	processing begun of mesh:  KAPTURY_NAJSZERSZY.001
+		registered as also a user of material:  defaultMat.004
+		num positions      :  3641
+		num normals        :  3641
+		num uvs            :  7282
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  19134
+	processing begun of mesh:  CHEST.005
+		processing begun of Standard material:  defaultMat.006
+			Diffuse texture found "Kd.006"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2649
+		num normals        :  2649
+		num uvs            :  5298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  14034
+	processing begun of mesh:  CHEST.004
+		registered as also a user of material:  defaultMat.006
+		num positions      :  3375
+		num normals        :  3375
+		num uvs            :  6750
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18660
+	processing begun of mesh:  CHEST.003
+		registered as also a user of material:  defaultMat.006
+		num positions      :  6151
+		num normals        :  6151
+		num uvs            :  12302
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  31788
+	processing begun of mesh:  CHEST.002
+		registered as also a user of material:  defaultMat.006
+		num positions      :  5993
+		num normals        :  5993
+		num uvs            :  11986
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  31512
+	processing begun of mesh:  CHEST.001
+		registered as also a user of material:  defaultMat.006
+		num positions      :  2581
+		num normals        :  2581
+		num uvs            :  5162
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13890
+	processing begun of mesh:  Group15331
+		processing begun of Standard material:  defaultMat.015
+			Diffuse texture found "Kd.015"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  23827
+		num normals        :  23827
+		num uvs            :  47654
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  116346
+	processing begun of mesh:  Group27261
+		processing begun of Standard material:  defaultMat.014
+			Diffuse texture found "Kd.014"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  12428
+		num normals        :  12428
+		num uvs            :  24856
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  66774
+	processing begun of mesh:  Group23318
+		processing begun of Standard material:  defaultMat.013
+			Diffuse texture found "Kd.013"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8948
+		num normals        :  8948
+		num uvs            :  17896
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  43314
+	processing begun of mesh:  Group8318
+		processing begun of Standard material:  defaultMat.012
+			Diffuse texture found "Kd.012"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  10333
+		num normals        :  10333
+		num uvs            :  20666
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  53046
+	processing begun of mesh:  Group21577
+		processing begun of Standard material:  defaultMat.011
+			Diffuse texture found "Kd.011"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  17562
+		num normals        :  17562
+		num uvs            :  35124
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  91476
+	processing begun of mesh:  Group11275
+		processing begun of Standard material:  defaultMat.010
+			Diffuse texture found "Kd.010"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8865
+		num normals        :  8865
+		num uvs            :  17730
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  46848
+	processing begun of mesh:  Group44936
+		processing begun of Standard material:  defaultMat.009
+			Diffuse texture found "Kd.009"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8121
+		num normals        :  8121
+		num uvs            :  16242
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  37374
+	processing begun of mesh:  Group20086
+		processing begun of Standard material:  defaultMat.008
+			Diffuse texture found "Kd.008"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29857
+		num normals        :  29857
+		num uvs            :  59714
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144378
+	processing begun of mesh:  Group11546
+		processing begun of Standard material:  defaultMat.007
+			Diffuse texture found "Kd.007"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  18279
+		num normals        :  18279
+		num uvs            :  36558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  97512
+	processing begun of mesh:  CHEST
+		registered as also a user of material:  defaultMat.006
+		num positions      :  3367
+		num normals        :  3367
+		num uvs            :  6734
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18576
+	processing begun of mesh:  Group65357
+		processing begun of Standard material:  defaultMat.005
+			Diffuse texture found "Kd.005"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  19989
+		num normals        :  19989
+		num uvs            :  39978
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  109632
+	processing begun of mesh:  KAPTURY_NAJSZERSZY
+		registered as also a user of material:  defaultMat.004
+		num positions      :  537
+		num normals        :  537
+		num uvs            :  1074
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2736
+	processing begun of mesh:  Group12314
+		processing begun of Standard material:  defaultMat.003
+			Diffuse texture found "Kd.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  23321
+		num normals        :  23321
+		num uvs            :  46642
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  114384
+	processing begun of mesh:  Group8294
+		processing begun of Standard material:  defaultMat.002
+			Diffuse texture found "Kd.002"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  22354
+		num normals        :  22354
+		num uvs            :  44708
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  111384
+	processing begun of mesh:  Group15540
+		WARNING: No materials have been assigned: 
+		num positions      :  41383
+		num normals        :  41383
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  248070
+	processing begun of mesh:  Group21700
+		WARNING: No materials have been assigned: 
+		num positions      :  56156
+		num normals        :  56156
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  335928
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of light (HEMI):  Hemi
+	processing begun of light (SUN):  Sun
+	WARNING: The following lamp not visible in scene thus ignored: Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 34.7866 secs
