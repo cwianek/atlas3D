@@ -44,7 +44,7 @@ html, body {
 
 .footer-nav {
   position: absolute;
-  bottom: 0px;
+  bottom: 50px;
   width: 100%; }
   .footer-nav .element {
     cursor: pointer;
@@ -57,3 +57,17 @@ html, body {
     color: dodgerblue; }
 
 /*# sourceMappingURL=style.css.map */
+
+#gunsight-left{
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  color: lightgreen;
+}
+
+#gunsight-right{
+  position: absolute;
+  left: 75%;
+  top: 50%;
+  color: lightgreen;
+}
